@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/AzureDevOpsOrgn/ContosoAir/_apis/build/status/babashyam3.ContosoAir?branchName=master)](https://dev.azure.com/AzureDevOpsOrgn/ContosoAir/_build/latest?definitionId=8&branchName=master)
 
 # Microsoft.Github CI Demo
 
